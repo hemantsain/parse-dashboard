@@ -1,5 +1,10 @@
 {
   "apps": [
-
+{
+      "serverURL": "http://carpoolclub.herokuapp.com:1337/parse",
+      "appId": "carpoolclub20052016",
+      "masterKey": "hemant_car_pool_club_08",
+      "appName": "CarPoolClub"
+    }
   ]
 }
